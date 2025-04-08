@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Hotel xmlns="https://mtoxquiv.github.io/cse445_a4/Hotels.xsd"
+<Hotels xmlns="https://mtoxquiv.github.io/cse445_a4/Hotels.xsd"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:schemaLocation="https://mtoxquiv.github.io/cse445_a4/Hotels.xsd https://mtoxquiv.github.io/cse445_a4/Hotels.xsd">
 
@@ -129,4 +129,4 @@
 		</Address>
 	</Hotel>
 
-</Hotel>
+</Hotels>
