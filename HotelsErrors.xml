@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotel xmlns="https://mtoxquiv.github.io/cse445_a4/Hotels.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="https://mtoxquiv.github.io/cse445_a4/Hotels.xsd https://mtoxquiv.github.io/cse445_a4/Hotels.xsd">
+
+	<Hotel Rating="4.5">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Greeen Tree Inn</Name>
+		<Phone>928-772-8600</Phone>
+		<Address>
+			<Number>7875</Number>
+			<Street>E State Rte 69</Street>
+			<City>Prescott Valley</City>
+			<State>AZ</State>
+			<Zip>86314</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Clarion Pointe</Name>
+		<Address NearestAirport="Prescott Municipal Airport, Ernest A. Love Field">
+			<Number>7801</Number>
+			<Street>AZ-69</Street>
+			<City>Prescott Valley</City>
+			<State>AZ</State>
+			<Zip>86314</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.9">
+		<Name>Summit Lodge</Name>
+		<Name>Summit Lodges</Name>
+		<Phone>970-555-1111</Phone>
+		<Address NearestAirport="Aspen Airport">
+			<Number>55</Number>
+			<Street>Mountain View Rd</Street>
+			<City>Aspen</City>
+			<State>CO</State>
+			<Zip>81611</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Grand Oak Resort</Name>
+		<Phone>321-555-0001</Phone>
+		<Phone>321-555-0002</Phone>
+		<Address NearestAirport="Orlando Intl">
+			<Number>1010A</Number>
+			<Street>Lakeview Blvd</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32819</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="2.7">
+		<Name>Budget Stay</Name>
+		<Phone>773-555-3344</Phone>
+		<Address NearestAirport="O'Hare Airport">
+			<Number>1515</Number>
+			<Street>S. Cicero Ave</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60632</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Maple Leaf Inn</Name>
+		<Phone>315-555-9922</Phone>
+		<Address NearestAirport="Syracuse Hancock">
+			<Number>75B</Number>
+			<Street>Maple Street</Street>
+			<City>Syracuse</City>
+			<State>NY</State>
+			<Zip>13210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="5.0">
+		<Name>Crystal Bay Hotel</Name>
+		<Phone>727-555-7788</Phone>
+		<Phone>727-555-7789</Phone>
+		<Phone>727-555-7790</Phone>
+		<Phone>727-555-7791</Phone>
+		<Address NearestAirport="Tampa Intl">
+			<Number>7401</Number>
+			<Street>Gulf Blvd</Street>
+			<City>St. Pete Beach</City>
+			<State>FL</State>
+			<Zip>33706</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Desert Oasis</Name>
+		<Phone>480-555-3030</Phone>
+		<Address NearestAirport="Phoenix-Mesa Gateway">
+			<Number>210</Number>
+			<Street>Desert Drive</Street>
+			<City>Queen Creek</City>
+			<State>AZ</State>
+			<Zip>85142</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Riverfront Suites</Name>
+		<Phone>916-555-2121</Phone>
+		<Phone>916-555-2122</Phone>
+		<Address NearestAirport="Sacramento Intl">
+			<Number>1800</Number>
+			<Street>River Rd</Street>
+			<City>Sacramento</City>
+			<State>CA</State>
+			<Zip>95822</Zip>
+		</Address>
+	</Hotel>
+
+</Hotel>
